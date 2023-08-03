@@ -1,0 +1,16 @@
+com/jbm/urcap/sample/scriptcommunicator/communicator/InterfaceTester.class
+com/jbm/urcap/sample/scriptcommunicator/impl/TestInstallationNodeService.class
+com/jbm/urcap/sample/scriptcommunicator/impl/Activator.class
+com/jbm/urcap/sample/scriptcommunicator/impl/TestInstallationNodeView$2.class
+com/jbm/urcap/sample/scriptcommunicator/impl/TestInstallationNodeContribution.class
+com/jbm/urcap/sample/scriptcommunicator/communicator/ScriptSender.class
+com/jbm/urcap/sample/scriptcommunicator/impl/TestInstallationNodeView.class
+com/jbm/urcap/sample/scriptcommunicator/communicator/ScriptTypeConverter.class
+com/jbm/urcap/sample/scriptcommunicator/impl/TestInstallationNodeView$1.class
+com/jbm/urcap/sample/scriptcommunicator/communicator/InterfaceTester$1.class
+com/jbm/urcap/sample/scriptcommunicator/communicator/ScriptTypeConverter$URBoolean.class
+com/jbm/urcap/sample/scriptcommunicator/communicator/InterfaceTester$TestPoseFactory.class
+com/jbm/urcap/sample/scriptcommunicator/communicator/InterfaceTester$TestPose.class
+com/jbm/urcap/sample/scriptcommunicator/communicator/ScriptCommand.class
+com/jbm/urcap/sample/scriptcommunicator/communicator/ScriptProxy.class
+com/jbm/urcap/sample/scriptcommunicator/communicator/ScriptExporter.class

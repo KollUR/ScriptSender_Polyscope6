@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1691057330338
+Build-Jdk-Spec: 17
+Bundle-Activator: com.jbm.urcap.sample.scriptcommunicator.impl.Activator
+Bundle-Category: URCap
+Bundle-ManifestVersion: 2
+Bundle-Name: scriptcommunicator-osgi
+Bundle-SymbolicName: com.jbm.urcap.sample.scriptcommunicator
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin 5.1.8
+Embed-Dependency: *;scope=compile|runtime;inline=true
+Embed-Transitive: true
+Import-Package: java.awt,java.awt.event,java.io,java.lang,java.net,java.
+ util,com.ur.urcap.api.contribution;version="[2.0,3)",com.ur.urcap.api.c
+ ontribution.installation;version="[1.10,2)",com.ur.urcap.api.contributi
+ on.installation.swing;version="[1.8,2)",com.ur.urcap.api.domain.data;ve
+ rsion="[1.11,2)",com.ur.urcap.api.domain.script;version="[2.0,3)",com.u
+ r.urcap.api.domain.value;version="[2.0,2.1)",com.ur.urcap.api.domain.va
+ lue.simple;version="[1.9,2)",org.osgi.framework;version="[1.10,2)",java
+ x.swing,org.ietf.jgss
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-6.3.1.202206071316

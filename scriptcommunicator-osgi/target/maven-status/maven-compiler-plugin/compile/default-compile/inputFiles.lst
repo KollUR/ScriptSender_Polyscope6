@@ -1,0 +1,10 @@
+/workspaces/urcapx-dev/debug/scriptconvert/scriptcommunicator-osgi/src/main/java/com/jbm/urcap/sample/scriptcommunicator/communicator/ScriptSender.java
+/workspaces/urcapx-dev/debug/scriptconvert/scriptcommunicator-osgi/src/main/java/com/jbm/urcap/sample/scriptcommunicator/communicator/InterfaceTester.java
+/workspaces/urcapx-dev/debug/scriptconvert/scriptcommunicator-osgi/src/main/java/com/jbm/urcap/sample/scriptcommunicator/communicator/ScriptTypeConverter.java
+/workspaces/urcapx-dev/debug/scriptconvert/scriptcommunicator-osgi/src/main/java/com/jbm/urcap/sample/scriptcommunicator/impl/TestInstallationNodeService.java
+/workspaces/urcapx-dev/debug/scriptconvert/scriptcommunicator-osgi/src/main/java/com/jbm/urcap/sample/scriptcommunicator/impl/TestInstallationNodeContribution.java
+/workspaces/urcapx-dev/debug/scriptconvert/scriptcommunicator-osgi/src/main/java/com/jbm/urcap/sample/scriptcommunicator/communicator/ScriptCommand.java
+/workspaces/urcapx-dev/debug/scriptconvert/scriptcommunicator-osgi/src/main/java/com/jbm/urcap/sample/scriptcommunicator/communicator/ScriptProxy.java
+/workspaces/urcapx-dev/debug/scriptconvert/scriptcommunicator-osgi/src/main/java/com/jbm/urcap/sample/scriptcommunicator/impl/Activator.java
+/workspaces/urcapx-dev/debug/scriptconvert/scriptcommunicator-osgi/src/main/java/com/jbm/urcap/sample/scriptcommunicator/impl/TestInstallationNodeView.java
+/workspaces/urcapx-dev/debug/scriptconvert/scriptcommunicator-osgi/src/main/java/com/jbm/urcap/sample/scriptcommunicator/communicator/ScriptExporter.java

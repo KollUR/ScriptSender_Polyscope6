@@ -1,0 +1,14 @@
+metadata:
+    vendorID: com-jbm-urcap-sample
+    urcapID: scriptcommunicator
+    version: 1.0.0
+    urcapName: scriptcommunicator
+    vendorName: URCaps R us Inc.
+    contactInfo: 123 URCap Street
+    description: This is a description of the URCap
+    copyright: Copyright notice (C)
+    licenseType: License type
+artifacts:
+    osgiBundles:
+        - id: scriptcommunicator-osgi
+          bundle: scriptcommunicator-1.0.0.jar
